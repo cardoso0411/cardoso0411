@@ -4,7 +4,6 @@ Olá! Sou **Bruno Cardoso**, sou apaixonado por **tecnologia e programação**. 
 
 ## Sobre Mim
 - 🔭 Estou cursando **Desenvolvimento de Software Multiplataforma - Fatec Itapira - "Dr. Ogari de Castro Pacheco"**
-- 💼 Procurando vagas para **Desenvolvedor Júnior**
 - ❤️ Gosto de **tecnologias inovadoras** e de **programar soluções criativas**
 
 ## 🛠️ Tecnologias e Ferramentas
