@@ -6,13 +6,28 @@ Olá! Sou **Bruno Cardoso**, sou apaixonado por **tecnologia e programação**. 
 - 🔭 Estou cursando **Desenvolvimento de Software Multiplataforma - Fatec Itapira - "Dr. Ogari de Castro Pacheco"**
 - ❤️ Gosto de **tecnologias inovadoras** e de **programar soluções criativas**
 
-## 🛠️ Tecnologias e Ferramentas
-```markdown
-🌐 Frontend: HTML, CSS, JavaScript
-🔧 Backend: Node.js, Python
-🗄️ Bancos: MySQL, SQLite
-⚙️ Ferramentas: Git, VS Code
-```
+## 🔥 Meus Interesses
+
+### 🌐 Desenvolvimento de Sistemas e Sites
+Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **sistemas** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.  
+
+## 🐍 Linguagem Mais Estudadas
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+</p>
+
+## 📚 Linguagens e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+</p>
 
 ## 🔥 Projetos em Destaque
 | Projeto | Descrição |
