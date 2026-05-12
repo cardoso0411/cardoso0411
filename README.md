@@ -8,8 +8,8 @@ Olá! Sou **Bruno Cardoso**, sou apaixonado por **tecnologia e programação**. 
 
 ## 🔥 Meus Interesses
 
-### 🌐 Desenvolvimento de Sistemas e Sites
-Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **sistemas** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.  
+### 🌐 Desenvolvimento de Software e Sites
+Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **Software** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.  
 
 ## 🐍 Linguagem Mais Estudadas
 <p align="center">
