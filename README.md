@@ -34,6 +34,7 @@ Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes
 |---------|-----------|
 | [unigestor](https://github.com/cardoso0411/unigestor.git) | O UniGestor é um sistema web para gerenciar o estoque de itens, uniformes, EPIs (Equipamentos de Proteção Individual) e funcionários de uma empresa. Ele facilita o cadastro, controle de movimentações (entradas e saídas), entrega de uniformes, consulta de funcionários inativos e exclusão segura de registros. |
 | [Ender Game](https://github.com/cardoso0411/ender-game.git) | O Ender Game é um projeto de loja virtual de jogos digitais, desenvolvido como parte de um portfólio de estudos em desenvolvimento web. O site apresenta um catálogo diversificado de jogos para várias plataformas, com categorias que incluem ação, aventura, RPG, terror, simulação e muito mais. |
+| [Projeto Egito_2.0](https://github.com/cardoso0411/projeto-egito_2.0.git) | O site apresenta uma experiência temática de viagem ao Egito, com páginas dedicadas a locais históricos como as pirâmides de Gizé, a Esfinge, o rio Nilo, o Vale dos Reis, o Templo de Karnak e Abu Simbel. Inclui uma página especial de mapa interativo com estilo visual inspirado em jogos modernos, efeitos sonoros e interações durante a navegação.|
 
 <h2>📈 Estatísticas do GitHub</h2>
 
