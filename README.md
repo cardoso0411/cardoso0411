@@ -9,15 +9,7 @@ Olá! Sou **Bruno Cardoso**, sou apaixonado por **tecnologia e programação**. 
 ## 🔥 Meus Interesses
 
 ### 🌐 Desenvolvimento de Software e Sites
-Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **Software** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.  
-
-## 🐍 Linguagem Mais Estudadas
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
-</p>
+Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **Software** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.
 
 ## 📚 Linguagens e Ferramentas
 
